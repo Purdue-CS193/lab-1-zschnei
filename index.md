@@ -1,3 +1,3 @@
-#<Zach's first CS193 Lab
+# Zach's first CS193 Lab
 
 -
